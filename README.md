@@ -1,3 +1,12 @@
+# About this Repo:
+These are the main scripts used in my thesis research
+
+
+
+
+
+
+
 # CLIP
 
 [[Blog]](https://openai.com/blog/clip/) [[Paper]](https://cdn.openai.com/papers/Learning_Transferable_Visual_Models_From_Natural_Language_Supervision.pdf) [[Model Card]](model-card.md) [[Colab]](https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb)
