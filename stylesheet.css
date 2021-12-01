@@ -1,0 +1,44 @@
+Body {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.headliner {
+    width: 100%;
+    text-align: center;
+}
+
+.headliner h1 {
+    font-size: 8vh;
+    font-weight: 600;
+    padding: 3%;
+}
+
+.headliner h2 {
+    font-size: 1.5vh;
+    font-style: italic;
+    font-weight: 400;
+    padding: 3%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.child {
+    padding: 3%;
+}
+
+.child p {
+    font-size: 1vh;
+    font-weight: 300;
+}
+
+.child h1 {
+    font-size: 1.5vh;
+    font-weight: 600;
+}
