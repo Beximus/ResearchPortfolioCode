@@ -1,6 +1,6 @@
 # About this Repo:
 These are the main scripts used in my thesis research
-
+The content of this readme is from the main CLIP repo 
 
 
 
