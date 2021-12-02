@@ -4,20 +4,22 @@ Body {
 
 .headliner {
     width: 100%;
+    margin: 0;
+    padding: 5%;
     text-align: center;
+    background-color: black;
+    color: white;
 }
 
 .headliner h1 {
     font-size: 8vh;
     font-weight: 600;
-    padding: 3%;
 }
 
 .headliner h2 {
     font-size: 1.5vh;
     font-style: italic;
     font-weight: 400;
-    padding: 3%;
 }
 
 .container {
@@ -34,11 +36,35 @@ Body {
 }
 
 .child p {
-    font-size: 1vh;
+    font-size: 1.5vh;
     font-weight: 300;
 }
 
 .child h1 {
     font-size: 1.5vh;
+    font-weight: 600;
+}
+
+.liveDemo {
+    padding: 5%;
+}
+
+.demoHeader {
+    background-color: black;
+    color: white;
+}
+
+.demoHeader h1 {
+    font-size: 3vh;
+    font-weight: 600;
+}
+
+.abstractHeader {
+    background-color: black;
+    color: white;
+}
+
+.abstractHeader h1 {
+    font-size: 3vh;
     font-weight: 600;
 }
