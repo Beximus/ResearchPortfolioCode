@@ -1,14 +1,16 @@
 Body {
     font-family: 'Fira Sans', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .headliner {
-    width: 100%;
-    margin: 0;
-    padding: 5%;
+    width: 100vw;
     text-align: center;
     background-color: black;
     color: white;
+    border-color: black;
+    border-style: solid;
 }
 
 .headliner h1 {
@@ -23,6 +25,7 @@ Body {
 }
 
 .container {
+    width: 100vw;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -40,31 +43,16 @@ Body {
     font-weight: 300;
 }
 
-.child h1 {
-    font-size: 1.5vh;
-    font-weight: 600;
-}
-
 .liveDemo {
-    padding: 5%;
+    padding: 3%;
 }
 
-.demoHeader {
+.textHeader {
     background-color: black;
     color: white;
 }
 
-.demoHeader h1 {
-    font-size: 3vh;
-    font-weight: 600;
-}
-
-.abstractHeader {
-    background-color: black;
-    color: white;
-}
-
-.abstractHeader h1 {
+.textHeader h1 {
     font-size: 3vh;
     font-weight: 600;
 }
